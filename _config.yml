@@ -1,3 +1,5 @@
   name: Digital Motion & Magic
   markdown: kramdown
   permalink: /feed/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
