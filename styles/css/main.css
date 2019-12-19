@@ -1,8 +1,9 @@
+* { font-family: 'Nunito', sans-serif; }
+
 body
 {
 	margin: 60px auto;
 	width: 70%;
-	font-family: 'Nunito', sans-serif;
 }
 
 nav ul, footer ul
